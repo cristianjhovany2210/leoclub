@@ -1,0 +1,7 @@
+{
+  "name": "LeoClub - Registro de Lectura y Club",
+  "description": "Lleva el registro de qué lees, tu avance en páginas y genera temas de debate para tu club de lectura.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
